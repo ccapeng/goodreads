@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+    <Request>
+        <authentication>true</authentication>
+        <key>
+            <![CDATA[RDfV4oPehM6jNhxfNQzzQ]]>
+        </key>
+        <method>
+            <![CDATA[search_index]]>
+        </method>
+    </Request>
+    <search>
+        <query>
+            <![CDATA[holiday]]>
+        </query>
+        <results-start>1</results-start>
+        <results-end>20</results-end>
+        <total-results>48412</total-results>
+        <source>Goodreads</source>
+        <query-time-seconds>0.07</query-time-seconds>
+        <results>
+            <work>
+                <id type="integer">26493723</id>
+                <books_count type="integer">51</books_count>
+                <ratings_count type="integer">46058</ratings_count>
+                <text_reviews_count type="integer">3172</text_reviews_count>
+                <original_publication_year type="integer">2014</original_publication_year>
+                <original_publication_month type="integer">5</original_publication_month>
+                <original_publication_day type="integer">1</original_publication_day>
+                <average_rating>4.15</average_rating>
+                <best_book type="Book">
+                    <id type="integer">18668059</id>
+                    <title>The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph</title>
+                    <author>
+                        <id type="integer">5775580</id>
+                        <name>Ryan Holiday</name>
+                    </author>
+                    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391440316l/18668059._SX98_.jpg</image_url>
+                    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391440316l/18668059._SX50_.jpg</small_image_url>
+                </best_book>
+            </work>
+            <work>
+                <id type="integer">47077771</id>
+                <books_count type="integer">49</books_count>
+                <ratings_count type="integer">38505</ratings_count>
+                <text_reviews_count type="integer">2644</text_reviews_count>
+                <original_publication_year type="integer">2016</original_publication_year>
+                <original_publication_month type="integer">6</original_publication_month>
+                <original_publication_day type="integer">14</original_publication_day>
+                <average_rating>4.15</average_rating>
+                <best_book type="Book">
+                    <id type="integer">27036528</id>
+                    <title>Ego Is the Enemy</title>
+                    <author>
+                        <id type="integer">5775580</id>
+                        <name>Ryan Holiday</name>
+                    </author>
+                    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459114043l/27036528._SX98_.jpg</image_url>
+                    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459114043l/27036528._SX50_.jpg</small_image_url>
+                </best_book>
+            </work>
+            <work>
+                <id type="integer">674383</id>
+                <books_count type="integer">47</books_count>
+                <ratings_count type="integer">113415</ratings_count>
+                <text_reviews_count type="integer">5949</text_reviews_count>
+                <original_publication_year type="integer">1997</original_publication_year>
+                <original_publication_month type="integer">12</original_publication_month>
+                <original_publication_day type="integer" nil="true"/>
+                <average_rating>3.91</average_rating>
+                <best_book type="Book">
+                    <id type="integer">4136</id>
+                    <title>Holidays on Ice</title>
+                    <author>
+                        <id type="integer">2849</id>
+                        <name>David Sedaris</name>
+                    </author>
+                    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328330843l/4136._SX98_.jpg</image_url>
+                    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328330843l/4136._SX50_.jpg</small_image_url>
+                </best_book>
+            </work>
+            <work>
+                <id type="integer">3247053</id>
+                <books_count type="integer">128</books_count>
+                <ratings_count type="integer">119162</ratings_count>
+                <text_reviews_count type="integer">11155</text_reviews_count>
+                <original_publication_year type="integer">2008</original_publication_year>
+                <original_publication_month type="integer">10</original_publication_month>
+                <original_publication_day type="integer">2</original_publication_day>
+                <average_rating>3.74</average_rating>
+                <best_book type="Book">
+                    <id type="integer">3213286</id>
+                    <title>Let It Snow: Three Holiday Romances</title>
+                    <author>
+                        <id type="integer">1406384</id>
+                        <name>John Green</name>
+                    </author>
+                    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489409554l/3213286._SX98_.jpg</image_url>
+                    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489409554l/3213286._SX50_.jpg</small_image_url>
+                </best_book>
+            </work>
+            <work>
+                <id type="integer">49328756</id>
+                <books_count type="integer">24</books_count>
+                <ratings_count type="integer">19782</ratings_count>
+                <text_reviews_count type="integer">1011</text_reviews_count>
+                <original_publication_year type="integer">2016</original_publication_year>
+                <original_publication_month type="integer">10</original_publication_month>
+                <original_publication_day type="integer">18</original_publication_day>
+                <average_rating>4.22</average_rating>
+                <best_book type="Book">
+                    <id type="integer">29093292</id>
+                    <title>The Daily Stoic: 366 Meditations for Clarity, Effectiveness, and Serenity</title>
+                    <author>
+                        <id type="integer">5775580</id>
+                        <name>Ryan Holiday</name>
+                    </author>
+                    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462161080l/29093292._SX98_.jpg</image_url>
+                    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462161080l/29093292._SX50_.jpg</small_image_url>
+                </best_book>
+            </work>
+            <work>
+                <id type="integer">28143699</id>
+                <books_count type="integer">45</books_count>
+                <ratings_count type="integer">36995</ratings_count>
+                <text_reviews_count type="integer">7288</text_reviews_count>
+                <original_publication_year type="integer">2014</original_publication_year>
+                <original_publication_month type="integer">10</original_publication_month>
+                <original_publication_day type="integer">9</original_publication_day>
+                <average_rating>3.68</average_rating>
+                <best_book type="Book">
+                    <id type="integer">20309175</id>
+                    <title>My True Love Gave to Me: Twelve Holiday Stories</title>
+                    <author>
+                        <id type="integer">3095893</id>
+                        <name>Stephanie Perkins</name>
+                    </author>
+                    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459353572l/20309175._SX98_.jpg</image_url>
+                    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459353572l/20309175._SY75_.jpg</small_image_url>
+                </best_book>
+            </work>
+            <work>
+                <id type="integer">23728</id>
+                <books_count type="integer">78</books_count>
+                <ratings_count type="integer">64109</ratings_count>
+                <text_reviews_count type="integer">1729</text_reviews_count>
+                <original_publication_year type="integer">1997</original_publication_year>
+                <original_publication_month type="integer" nil="true"/>
+                <original_publication_day type="integer" nil="true"/>
+                <average_rating>3.96</average_rating>
+                <best_book type="Book">
+                    <id type="integer">9301</id>
+                    <title>Rachel's Holiday (Walsh Family, #2)</title>
+                    <author>
+                        <id type="integer">6104</id>
+                        <name>Marian Keyes</name>
+                    </author>
+                    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407709261l/9301._SX98_.jpg</image_url>
+                    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407709261l/9301._SY75_.jpg</small_image_url>
+                </best_book>
+            </work>
+            <work>
+                <id type="integer">67806670</id>
+                <books_count type="integer">26</books_count>
+                <ratings_count type="integer">15330</ratings_count>
+                <text_reviews_count type="integer">1218</text_reviews_count>
+                <original_publication_year type="integer">2019</original_publication_year>
+                <original_publication_month type="integer">10</original_publication_month>
+                <original_publication_day type="integer">1</original_publication_day>
+                <average_rating>4.23</average_rating>
+                <best_book type="Book">
+                    <id type="integer">43582733</id>
+                    <title>Stillness Is the Key</title>
+                    <author>
+                        <id type="integer">5775580</id>
+                        <name>Ryan Holiday</name>
+                    </author>
+                    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566883842l/43582733._SX98_.jpg</image_url>
+                    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566883842l/43582733._SX50_.jpg</small_image_url>
+                </best_book>
+            </work>
+            <work>
+                <id type="integer">68830500</id>
+                <books_count type="integer">11</books_count>
+                <ratings_count type="integer">23202</ratings_count>
+                <text_reviews_count type="integer">2780</text_reviews_count>
+                <original_publication_year type="integer">2019</original_publication_year>
+                <original_publication_month type="integer">10</original_publication_month>
+                <original_publication_day type="integer">1</original_publication_day>
+                <average_rating>3.53</average_rating>
+                <best_book type="Book">
+                    <id type="integer">44300636</id>
+                    <title>Royal Holiday (The Wedding Date, #4)</title>
+                    <author>
+                        <id type="integer">16287225</id>
+                        <name>Jasmine Guillory</name>
+                    </author>
+                    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561643052l/44300636._SX98_.jpg</image_url>
+                    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561643052l/44300636._SY75_.jpg</small_image_url>
+                </best_book>
+            </work>
+            <work>
+                <id type="integer">3241480</id>
+                <books_count type="integer">70</books_count>
+                <ratings_count type="integer">36603</ratings_count>
+                <text_reviews_count type="integer">1196</text_reviews_count>
+                <original_publication_year type="integer">1998</original_publication_year>
+                <original_publication_month type="integer">6</original_publication_month>
+                <original_publication_day type="integer">1</original_publication_day>
+                <average_rating>4.31</average_rating>
+                <best_book type="Book">
+                    <id type="integer">238125</id>
+                    <title>Holiday in Death (In Death, #7)</title>
+                    <author>
+                        <id type="integer">17065</id>
+                        <name>J.D. Robb</name>
+                    </author>
+                    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389932347l/238125._SY160_.jpg</image_url>
+                    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389932347l/238125._SY75_.jpg</small_image_url>
+                </best_book>
+            </work>
+            <work>
+                <id type="integer">19107144</id>
+                <books_count type="integer">28</books_count>
+                <ratings_count type="integer">8581</ratings_count>
+                <text_reviews_count type="integer">1045</text_reviews_count>
+                <original_publication_year type="integer">2012</original_publication_year>
+                <original_publication_month type="integer">1</original_publication_month>
+                <original_publication_day type="integer">1</original_publication_day>
+                <average_rating>3.89</average_rating>
+                <best_book type="Book">
+                    <id type="integer">13542853</id>
+                    <title>Trust Me, I'm Lying: Confessions of a Media Manipulator</title>
+                    <author>
+                        <id type="integer">5775580</id>
+                        <name>Ryan Holiday</name>
+                    </author>
+                    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340124369l/13542853._SX98_.jpg</image_url>
+                    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340124369l/13542853._SY75_.jpg</small_image_url>
+                </best_book>
+            </work>
+            <work>
+                <id type="integer">65506059</id>
+                <books_count type="integer">20</books_count>
+                <ratings_count type="integer">17653</ratings_count>
+                <text_reviews_count type="integer">2148</text_reviews_count>
+                <original_publication_year type="integer">2019</original_publication_year>
+                <original_publication_month type="integer">6</original_publication_month>
+                <original_publication_day type="integer">13</original_publication_day>
+                <average_rating>3.92</average_rating>
+                <best_book type="Book">
+                    <id type="integer">41973359</id>
+                    <title>The Holiday</title>
+                    <author>
+                        <id type="integer">15961927</id>
+                        <name>T.M. Logan</name>
+                    </author>
+                    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547578843l/41973359._SX98_.jpg</image_url>
+                    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547578843l/41973359._SY75_.jpg</small_image_url>
+                </best_book>
+            </work>
+            <work>
+                <id type="integer">26100082</id>
+                <books_count type="integer">27</books_count>
+                <ratings_count type="integer">8333</ratings_count>
+                <text_reviews_count type="integer">664</text_reviews_count>
+                <original_publication_year type="integer">2013</original_publication_year>
+                <original_publication_month type="integer">9</original_publication_month>
+                <original_publication_day type="integer">1</original_publication_day>
+                <average_rating>3.79</average_rating>
+                <best_book type="Book">
+                    <id type="integer">18454317</id>
+                    <title>Growth Hacker Marketing: A Primer on the Future of PR, Marketing, and Advertising</title>
+                    <author>
+                        <id type="integer">5775580</id>
+                        <name>Ryan Holiday</name>
+                    </author>
+                    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382075918l/18454317._SX98_.jpg</image_url>
+                    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382075918l/18454317._SX50_.jpg</small_image_url>
+                </best_book>
+            </work>
+            <work>
+                <id type="integer">16497</id>
+                <books_count type="integer">22</books_count>
+                <ratings_count type="integer">17487</ratings_count>
+                <text_reviews_count type="integer">610</text_reviews_count>
+                <original_publication_year type="integer">2007</original_publication_year>
+                <original_publication_month type="integer">4</original_publication_month>
+                <original_publication_day type="integer">1</original_publication_day>
+                <average_rating>3.91</average_rating>
+                <best_book type="Book">
+                    <id type="integer">14463</id>
+                    <title>Kitty Takes a Holiday (Kitty Norville, #3)</title>
+                    <author>
+                        <id type="integer">8988</id>
+                        <name>Carrie Vaughn</name>
+                    </author>
+                    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+                    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+                </best_book>
+            </work>
+            <work>
+                <id type="integer">58473812</id>
+                <books_count type="integer">1</books_count>
+                <ratings_count type="integer">5091</ratings_count>
+                <text_reviews_count type="integer">579</text_reviews_count>
+                <original_publication_year type="integer">2018</original_publication_year>
+                <original_publication_month type="integer">2</original_publication_month>
+                <original_publication_day type="integer">27</original_publication_day>
+                <average_rating>3.99</average_rating>
+                <best_book type="Book">
+                    <id type="integer">36681909</id>
+                    <title>Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue</title>
+                    <author>
+                        <id type="integer">5775580</id>
+                        <name>Ryan Holiday</name>
+                    </author>
+                    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+                    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+                </best_book>
+            </work>
+            <work>
+                <id type="integer">24090272</id>
+                <books_count type="integer">2</books_count>
+                <ratings_count type="integer">5443</ratings_count>
+                <text_reviews_count type="integer">254</text_reviews_count>
+                <original_publication_year type="integer">2013</original_publication_year>
+                <original_publication_month type="integer">10</original_publication_month>
+                <original_publication_day type="integer">29</original_publication_day>
+                <average_rating>4.35</average_rating>
+                <best_book type="Book">
+                    <id type="integer">17349204</id>
+                    <title>The Pioneer Woman Cooks: A Year of Holidays</title>
+                    <author>
+                        <id type="integer">2884275</id>
+                        <name>Ree Drummond</name>
+                    </author>
+                    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+                    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+                </best_book>
+            </work>
+            <work>
+                <id type="integer">53602595</id>
+                <books_count type="integer">13</books_count>
+                <ratings_count type="integer">2442</ratings_count>
+                <text_reviews_count type="integer">282</text_reviews_count>
+                <original_publication_year type="integer">2017</original_publication_year>
+                <original_publication_month type="integer" nil="true"/>
+                <original_publication_day type="integer" nil="true"/>
+                <average_rating>4.17</average_rating>
+                <best_book type="Book">
+                    <id type="integer">32968546</id>
+                    <title>Perennial Seller: The Art of Making and Marketing Work That Lasts</title>
+                    <author>
+                        <id type="integer">5775580</id>
+                        <name>Ryan Holiday</name>
+                    </author>
+                    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496984867l/32968546._SX98_.jpg</image_url>
+                    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496984867l/32968546._SY75_.jpg</small_image_url>
+                </best_book>
+            </work>
+            <work>
+                <id type="integer">193416</id>
+                <books_count type="integer">12</books_count>
+                <ratings_count type="integer">7260</ratings_count>
+                <text_reviews_count type="integer">323</text_reviews_count>
+                <original_publication_year type="integer">2007</original_publication_year>
+                <original_publication_month type="integer">10</original_publication_month>
+                <original_publication_day type="integer">30</original_publication_day>
+                <average_rating>3.83</average_rating>
+                <best_book type="Book">
+                    <id type="integer">199929</id>
+                    <title>Holidays Are Hell</title>
+                    <author>
+                        <id type="integer">17054</id>
+                        <name>Kim Harrison</name>
+                    </author>
+                    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411843746l/199929._SX98_.jpg</image_url>
+                    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411843746l/199929._SY75_.jpg</small_image_url>
+                </best_book>
+            </work>
+            <work>
+                <id type="integer">1111829</id>
+                <books_count type="integer">51</books_count>
+                <ratings_count type="integer">4506</ratings_count>
+                <text_reviews_count type="integer">324</text_reviews_count>
+                <original_publication_year type="integer">1956</original_publication_year>
+                <original_publication_month type="integer" nil="true"/>
+                <original_publication_day type="integer" nil="true"/>
+                <average_rating>4.01</average_rating>
+                <best_book type="Book">
+                    <id type="integer">290112</id>
+                    <title>Lady Sings the Blues</title>
+                    <author>
+                        <id type="integer">53334</id>
+                        <name>Billie Holiday</name>
+                    </author>
+                    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+                    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+                </best_book>
+            </work>
+            <work>
+                <id type="integer">59689688</id>
+                <books_count type="integer">24</books_count>
+                <ratings_count type="integer">10560</ratings_count>
+                <text_reviews_count type="integer">1471</text_reviews_count>
+                <original_publication_year type="integer">2018</original_publication_year>
+                <original_publication_month type="integer">10</original_publication_month>
+                <original_publication_day type="integer">2</original_publication_day>
+                <average_rating>3.58</average_rating>
+                <best_book type="Book">
+                    <id type="integer">37966378</id>
+                    <title>Alaskan Holiday</title>
+                    <author>
+                        <id type="integer">11349</id>
+                        <name>Debbie Macomber</name>
+                    </author>
+                    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525310988l/37966378._SX98_.jpg</image_url>
+                    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525310988l/37966378._SX50_.jpg</small_image_url>
+                </best_book>
+            </work>
+        </results>
+    </search>
+</GoodreadsResponse>
